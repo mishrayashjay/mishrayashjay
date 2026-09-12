@@ -18,4 +18,5 @@ I'm Yash Jay Mishra — an aspiring Software Development Engineer who loves turn
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ### 📊 GitHub Stats
-![Yash jay's GitHub stats](https://github-readme-stats.vercel.app/api?username=mishrayashjay&show_icons=true&theme=radical)
+[![Yash's github stats](https://github-readme-stats.vercel.app/api?username=xsol05&count private=true&show icons=true&theme=radical&hide rank=false)]
+(https://github.com/anuraghazra/github-readme-stats)
